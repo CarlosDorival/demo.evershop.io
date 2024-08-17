@@ -43,7 +43,7 @@ Configuración
 Clona este repositorio en tu máquina local:
 
 
-- git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/CarlosDorival/demo.evershop.io.git)
+- git clone https://github.com/CarlosDorival/demo.evershop.io.git
 - cd tu-repositorio
 
 ------------------------------------------------------------------------------------
